@@ -26,7 +26,7 @@ If anyone has any feature recommendation he / she / they can recommend those fea
 - Clone the repository to your local computer.
 
 ```
-    git clone https://github.com/Your_Github_Username/telebyteweb.git
+    git clone https://github.com/Your_Github_Username/Telebyte-web.git
 ```
 - Install all dependencies.
 ```
